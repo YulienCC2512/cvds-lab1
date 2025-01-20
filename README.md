@@ -39,4 +39,7 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 
    ![Descripción de la imagen](IMAGES/collaborator.png)
 
+2. El colaborador acepta la solicitud, a partir de ahora, podrá modificar el repositorio:
+
+   ![Descripción de la imagen](IMAGES/acceptCollaboration.png)
 

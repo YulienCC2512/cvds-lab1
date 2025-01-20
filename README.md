@@ -1,6 +1,9 @@
 ## Laboratorio 1 - CVDS 
 ### Julian Santiago Cardenas Cubaque
 
+
+## PARTE I (Trabajo Individual).
+
 ### ¿Para que funciona git.add?
 Se utiliza para añadir cambios en el directorio, este debe ser el paso previo para realizar el commit. Es decir, que añade archivos modificados o nuevos.De este forma se controla que se esta colocando
 dentro del repositorio.
@@ -27,4 +30,13 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 
         git push -u origin main
         `
+
+
+
+## PARTE II (Trabajo en parejas)
+
+1. Invitamos como colaborador: 
+
+   ![Descripción de la imagen](IMAGES/collaborator.png)
+
 

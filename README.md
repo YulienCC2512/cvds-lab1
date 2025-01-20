@@ -44,3 +44,5 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    ![Descripción de la imagen](IMAGES/acceptCollaboration.png)
 
 3. Como owner intentare hacer push de esta misma linea al tiempo con el colaborador y veremos que sucede
+
+4. ![Vista del Owner ](IMAGES/OwnerVista.png)

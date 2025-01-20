@@ -35,25 +35,33 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 
 ## PARTE II (Trabajo en parejas)
 
-1. Invitamos como colaborador: 
+1. Compañeros:
+   - Julian Santiago Cardenas Cubaque
+   - Sebastian Galvis Briceño
+
+2. Invitamos como colaborador: 
 
    ![Descripción de la imagen](IMAGES/collaborator.png)
 
-2. El colaborador acepta la solicitud, a partir de ahora, podrá modificar el repositorio:
+3. Enlace Enviado
+
+4. El colaborador acepta la solicitud, a partir de ahora, podrá modificar el repositorio:
 
    ![Descripción de la imagen](IMAGES/acceptCollaboration.png)
 
 
-3. Como colaborador, intentaré hacer push de esta línea al tiempo con el propietario y veremos qué sucede.
 
-4. Posiblemente se escogió automáticamente la orden que primero llegó. Siendo el cambio del colaborador el exitoso.
+5. Como colaborador, intentaré hacer push de esta línea al tiempo con el propietario y veremos qué sucede.
+
+6. Posiblemente se escogió automáticamente la orden que primero llegó. Siendo el cambio del colaborador el exitoso.
 
    ![Vista del colaborador](IMAGES/collaboratorView.png)
 
-5. En la vista del Owner se ven los conflictos: 
+7. En la vista del Owner se ven los conflictos: 
  
    ![Conflictos](IMAGES/Conflictos.png)
 
    Asi que el Owner tuvo que escoger manualmente que se queda dentro del respositorio. 
 
    ![Resultado](IMAGES/DespuesConflicto.png)
+

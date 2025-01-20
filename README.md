@@ -43,6 +43,17 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 
    ![Descripción de la imagen](IMAGES/acceptCollaboration.png)
 
-3. Como owner intentare hacer push de esta misma linea al tiempo con el colaborador y veremos que sucede
 
-4. ![Vista del Owner ](IMAGES/OwnerVista.png)
+3. Como colaborador, intentaré hacer push de esta línea al tiempo con el propietario y veremos qué sucede.
+
+4. Posiblemente se escogió automáticamente la orden que primero llegó. Siendo el cambio del colaborador el exitoso.
+
+   ![Vista del colaborador](IMAGES/collaboratorView.png)
+
+5. En la vista del Owner se ven los conflictos: 
+ 
+   ![Conflictos](IMAGES/Conflictos.png)
+
+   Asi que el Owner tuvo que escoger manualmente que se queda dentro del respositorio. 
+
+   ![Resultado](IMAGES/DespuesConflicto.png)

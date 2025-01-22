@@ -65,4 +65,4 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 
    ![Resultado](IMAGES/DespuesConflicto.png)
 
-.
+8. Como colaborador, intentaré hacer otro push de esta línea al tiempo con el propietario y veremos qué sucede.

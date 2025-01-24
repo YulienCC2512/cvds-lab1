@@ -66,3 +66,14 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    ![Resultado](IMAGES/DespuesConflicto.png)
 
 8. Como colaborador, intentaré hacer otro push de esta línea al tiempo con el propietario y veremos qué sucede.
+
+9. Para este punto se realizo un intento de push al mismo tiempo , los conflictos resultantes pueden resultantes pueden ser evidenciados
+   de la siguiente forma en IntelliJ.
+
+   ![Resultado](IMAGES/ConflictoIntellij.png)
+
+
+   IntelliJ ofrece una opcion practica como se puede ver en la siguiente imagen, en la cual se realiza una comparacion entre los dos commits
+   y se escoge manualmente una version.
+
+   ![Resultado Intellij](IMAGES/ResultadoIntellij.png)

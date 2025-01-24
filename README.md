@@ -77,3 +77,20 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    y se escoge manualmente una version.
 
    ![Resultado Intellij](IMAGES/ResultadoIntellij.png)
+
+
+### Parte III 
+
+
+2. ¿Que es y como funciona el Pull Request?
+
+   Es una solicitud para fusionar cambios que realizados dentro de un repositorio en diferentes ramas, su funcion principal
+   es permitir que los miembros del equipo tengan un control del trabajo individual de cada uno antes de se fusiones
+   y se ubique dentro de la rama principal. Permitiendo a cada integrante corregir realizar cambios sin afectar la rama
+   principal.
+
+   Para utilizar esta funcionalidad se debe crear un rama en la cual se desarrollan los cambios , en la cual se desarrola 
+   el trabajo independientemente para posteriormente realizar un pull request en donde se solicita integrar los cambios a 
+   la rama principal permitiendo realizar cambios o fusionar el codigo. Finalmente, se cierra el pull request.
+
+

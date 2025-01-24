@@ -31,8 +31,14 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
         git push -u origin main
         `
 
+8. Con el fin de configurar de manera correcta el correo de git, desde el bash usaremos los siguientes comandos:
+   
+   ```git
+   git config --global user.email "julian.cardenas-c@mail.escuelaing.edu.co"
 
-
+   git config --global user.name "YulienCC2512"
+   ```
+   
 ## PARTE II (Trabajo en parejas)
 
 1. Compañeros:

@@ -138,10 +138,3 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    ```
 
 3. Cada integrante creará su rama.
-
-   ![Vista Owner](IMAGES/acceptCollaboration.png)
-
-   ![Vista Colaborador](IMAGES/ramaColaborador.png)
-
-4. El cambio que cada integrante hará al readme en su propia rama para hacer el pull request a main, será la imagen de
-   cuando creó su propia rama.

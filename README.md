@@ -139,6 +139,4 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 
 3. Cada integrante creará su rama.
 
-   ![Vista Owner](IMAGES/acceptCollaboration.png)
-
-   ![Vista Colaborador](IMAGES/acceptCollaboration.png)
+   ![Vista Colaborador](IMAGES/acceptCollaboration.png)]

@@ -142,3 +142,22 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    ![vista owner](IMAGES/VistasOwnerBranch.png)
 
    ![Vista Colaborador](IMAGES/vistaColaboradorBranch.png)
+
+   4. Para este punto se creo una rama con el nombre de "Julian". Y dentro de esta rama se agrego la imagen correspondiente. 
+      Teniendo en cuenta que el Pull Request se debe realizar directamente dentro del git hub se realizo el proceso.
+
+      ![vista Colaborador](IMAGES/CreacionRequestSebastian.png)
+
+      ![vista Colaborador](IMAGES/VerificacionPRSebastian.png)
+
+      ![vista Colaborador](IMAGES/PullRequestSebastian.png)
+
+      ![vista Conflicto](IMAGES/VistaConflictoPR.png)
+
+      ![vista Owner](IMAGES/PullRequestJulian.png)
+
+      ![vista Owner](IMAGES/VerificacionPRJulian.png)
+   
+      ![vista Owner](IMAGES/ConfiguracionRepositorio.png)
+   
+   

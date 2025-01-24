@@ -77,9 +77,25 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    y se escoge manualmente una version.
 
    ![Resultado Intellij](IMAGES/ResultadoIntellij.png)
+<<<<<<< HEAD
 
 
-### Parte III 
+## PARTE III
+
+1. El uso de ramas ayuda a evitar conflictos en el repositorio Una rama es una línea paralela de desarrollo. Por defecto, todos los 
+   repositorios comienzan con una rama llamada main. Las ramas permiten trabajar en funcionalidades, arreglos de errores o experimentos 
+   sin afectar la rama principal.
+   Es posible crear una rama de la forma:
+   ```git
+   git checkout -b nueva-funcionalidad
+   ```
+   Será necesario mantener la rama sincronizada con la rama base para incluir los cambios que otros hayan hecho, usando
+   ```git  
+   git checkout main
+   git pull origin main
+   git checkout nueva-funcionalidad
+   git merge main
+   ```
 
 
 2. ¿Que es y como funciona el Pull Request?
@@ -92,5 +108,4 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    Para utilizar esta funcionalidad se debe crear un rama en la cual se desarrollan los cambios , en la cual se desarrola 
    el trabajo independientemente para posteriormente realizar un pull request en donde se solicita integrar los cambios a 
    la rama principal permitiendo realizar cambios o fusionar el codigo. Finalmente, se cierra el pull request.
-
 

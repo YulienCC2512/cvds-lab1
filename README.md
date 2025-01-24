@@ -77,3 +77,23 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    y se escoge manualmente una version.
 
    ![Resultado Intellij](IMAGES/ResultadoIntellij.png)
+   
+
+
+
+## PARTE III
+
+1. El uso de ramas ayuda a evitar conflictos en el repositorio Una rama es una línea paralela de desarrollo. Por defecto, todos los 
+   repositorios comienzan con una rama llamada main. Las ramas permiten trabajar en funcionalidades, arreglos de errores o experimentos 
+   sin afectar la rama principal.
+   Es posible crear una rama de la forma:
+   ```git
+   git checkout -b nueva-funcionalidad
+   ```
+   Será necesario mantener la rama sincronizada con la rama base para incluir los cambios que otros hayan hecho, usando
+   ```git  
+   git checkout main
+   git pull origin main
+   git checkout nueva-funcionalidad
+   git merge main
+   ```

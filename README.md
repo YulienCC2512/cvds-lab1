@@ -77,7 +77,7 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    y se escoge manualmente una version.
 
    ![Resultado Intellij](IMAGES/ResultadoIntellij.png)
-<<<<<<< HEAD
+
 
 
 ## PARTE III
@@ -140,3 +140,4 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
 3. Cada integrante creará su rama.
 
    ![Vista Colaborador](IMAGES/vistaColaboradorBranch.png)
+

@@ -50,7 +50,6 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    ![Descripción de la imagen](IMAGES/acceptCollaboration.png)
 
 
-
 5. Como colaborador, intentaré hacer push de esta línea al tiempo con el propietario y veremos qué sucede.
 
 6. Posiblemente se escogió automáticamente la orden que primero llegó. Siendo el cambio del colaborador el exitoso.
@@ -64,4 +63,7 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    Asi que el Owner tuvo que escoger manualmente que se queda dentro del respositorio. 
 
    ![Resultado](IMAGES/DespuesConflicto.png)
+
+8. Como propietario , intentare hacer push de esta linea al tiempo con el colaborador y veremos que sucede.
+
 

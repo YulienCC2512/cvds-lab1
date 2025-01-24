@@ -105,7 +105,34 @@ o texto que usualmente debe contener la informacion de que fue lo que se actuali
    y se ubique dentro de la rama principal. Permitiendo a cada integrante corregir realizar cambios sin afectar la rama
    principal.
 
+   Se sugiere inicialmente clonar el repositorio
+
+   ```git 
+      git clone https://github.com/usuario/repositorio.git
+   ```
+
+   ```git
+
+   git checkout -b nombre-de-la-rama 
+   ```
+
+   ```git 
+   git pull origin main  
+   git add .
+   git commit -m "Pull Request"
+   git push origin nombre-de-la-rama
+
+   ```
+   
+
    Para utilizar esta funcionalidad se debe crear un rama en la cual se desarrollan los cambios , en la cual se desarrola 
    el trabajo independientemente para posteriormente realizar un pull request en donde se solicita integrar los cambios a 
    la rama principal permitiendo realizar cambios o fusionar el codigo. Finalmente, se cierra el pull request.
 
+   Eliminar la rama
+
+   ```git
+    git branch -d nombre-de-la-rama  # Elimina la rama localmente
+   git push origin --delete nombre-de-la-rama  # Elimina la rama remotamente
+
+   ```
